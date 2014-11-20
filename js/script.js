@@ -153,8 +153,8 @@
 	
 		$('#puzzle-wrapper').crossword({
 			entryData: entryData,
-			showAnswers: false
-            id: "my-crossword"
+			showAnswers: false,
+    			id: "my-crossword"
 		});
 		
 	})
